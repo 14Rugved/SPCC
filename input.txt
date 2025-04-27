@@ -1,0 +1,7 @@
+MACRO
+test &p &q
+move &p &q
+MEND
+begin
+test x y
+stop
